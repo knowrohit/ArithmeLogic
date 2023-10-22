@@ -17,11 +17,12 @@ output (String): Detailed step-by-step calculations leading to the solution. It 
 
 ### 4. Sample Data Point:
 
-{
+[
+    {
     "instruction": "Rohit is saving money for a new wallet which costs $100. Rohit has only half of the money he needs. His parents decided to give him $15 for that purpose, and his grandparents twice as much as his parents. How much more money does Rohit need to buy the wallet?",
     "output": "Rohit has only 100 * 0.5 = $<<100*0.5=50>>50.\nRohit's grandparents gave him 15 * 2 = $<<15*2=30>>30.\nIn total, Rohit needs 100 - 50 - 30 - 15 = $<<100-50-30-15=5>>5 more.\n#### 5"
-  }
-  
+      }
+]
 ### 5. Potential Uses:
 
 Training models to comprehend and solve math word problems.
