@@ -35,7 +35,7 @@ Simplicity: Some real-world math problems might require more advanced problem-so
 
 ### 7. Dataset Maintenance and Updates:
 
-will try to keep in loop
+will try to keep in the loop
 
 
 offers several merits for LLMs:
